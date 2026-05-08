@@ -1,2 +1,2 @@
-# Socail_Media
+# Social_Media
 A basic backend project
